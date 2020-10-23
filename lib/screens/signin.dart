@@ -65,10 +65,10 @@ class SignIn extends StatelessWidget {
                   SizedBox(
                     height: 20.0,
                   ),
-                  InkWell(
-                    child: Text("Forgot Password?"),
-                    onTap: () {},
-                  ),
+                  // InkWell(
+                  //   child: Text("Forgot Password?"),
+                  //   onTap: () {},
+                  // ),
                   SizedBox(
                     height: 30.0,
                   ),
